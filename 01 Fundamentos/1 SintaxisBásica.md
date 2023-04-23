@@ -11,6 +11,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas finibus lorem 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas finibus lorem diam, vel sollicitudin quam sodales eget.
 
 ## Conditionals
+- if 
+- else
+- else-if
+- switch
+- ?, :
 
 ## Funciones
 
